@@ -1,7 +1,7 @@
-# heslabs.githu.io
+# heslabs.github.io
 
 
-* heslabs.githu.io
-* heslabs.githu.io/readme.md
+* heslabs.github.io
+* heslabs.github.io/readme.md
 
  
