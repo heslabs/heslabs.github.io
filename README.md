@@ -1,7 +1,7 @@
 # heslabs.github.io
 
 
-* heslabs.github.io
-* heslabs.github.io/readme.md
+* https://heslabs.github.io
+* https://heslabs.github.io/readme.md
 
  
